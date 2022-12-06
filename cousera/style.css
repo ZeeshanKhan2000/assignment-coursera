@@ -1,0 +1,29 @@
+.header{
+    background-color: gray;
+    padding: 1px 21px;
+    font-size: 16px;
+}
+
+a.navbar-brand.text-light {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+
+.main-headeing{
+    color: aqua;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.main-text h1{
+text-align: center;
+}
+
+.main-text{
+    background-color: gray;
+    text-align: center;
+}
+
+
+
